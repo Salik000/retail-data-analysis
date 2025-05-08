@@ -46,6 +46,4 @@ This project analyzes customer data from an online retail dataset to uncover ins
 5. **Focus Marketing on Key Regions:**
    - Concentrate marketing efforts in the UK (from `country_sales_pie.png`) while testing small campaigns to grow sales in other countries.
 
-**Deliverables**
-- **Code:** Available on GitHub at `<your-repo-url>` (e.g., `retail-data-analysis`).
-- **Visualizations:** Included in the repository (`correlation_heatmap.png`, `top_products_bar.png`, etc.).
+
